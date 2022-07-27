@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebprojetoAPI.Data/1.0.0": {
+        "dependencies": {
+          "WebprojetoAPI.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "WebprojetoAPI.Data.dll": {}
+        }
+      },
+      "WebprojetoAPI.Dominio/1.0.0": {
+        "runtime": {
+          "WebprojetoAPI.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebprojetoAPI.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebprojetoAPI.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

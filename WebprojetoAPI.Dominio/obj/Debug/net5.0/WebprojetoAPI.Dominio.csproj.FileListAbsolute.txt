@@ -1,0 +1,12 @@
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\bin\Debug\net5.0\WebprojetoAPI.Dominio.deps.json
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\bin\Debug\net5.0\WebprojetoAPI.Dominio.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\bin\Debug\net5.0\WebprojetoAPI.Dominio.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.csproj.AssemblyReference.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.AssemblyInfoInputs.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.AssemblyInfo.cs
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\refint\WebprojetoAPI.Dominio.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\WebprojetoAPI.Dominio.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Dominio\obj\Debug\net5.0\ref\WebprojetoAPI.Dominio.dll
