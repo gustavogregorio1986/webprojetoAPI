@@ -1,0 +1,17 @@
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Servico.deps.json
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Servico.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Servico.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Data.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Dominio.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Data.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\bin\Debug\net5.0\WebprojetoAPI.Dominio.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.csproj.AssemblyReference.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.AssemblyInfoInputs.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.AssemblyInfo.cs
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.csproj.CoreCompileInputs.cache
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.csproj.CopyComplete
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\refint\WebprojetoAPI.Servico.dll
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\WebprojetoAPI.Servico.pdb
+C:\webprojetoAPI\webprojetoAPI\WebprojetoAPI.Servico\obj\Debug\net5.0\ref\WebprojetoAPI.Servico.dll
